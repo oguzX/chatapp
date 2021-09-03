@@ -92,16 +92,3 @@
     
     userListItem.innerHTML = `${nick} <span class="typing">is typing...</span>`;
   });
-
-
-  // socket.on('writing', function(msg) {
-  //   var item = document.createElement('li');
-  //   item.textContent = msg;
-  //   writers.innerHTML = "";
-  //   writers.appendChild(item);
-    
-  //   clearTimeout(clearWritersDelayTimer);
-  //   clearWritersDelayTimer = setTimeout(function() {
-  //           writers.innerHTML = "";
-  //       }, 2000);
-  // });
