@@ -2,6 +2,12 @@
 
 This project has some feature about chat app which use socket io functions. This project has two side which are client and server. I didnt work on client side about ui/ux, maybe feature. My priority work on server side.
 
+Used things are 
+
+ - NodeJs
+ - Socket.IO
+ - HTML/CSS
+ 
 ## Done Features
 
  - User
@@ -25,4 +31,4 @@ This project has some feature about chat app which use socket io functions. This
 -	Room
 	-	Share Room Link
 
-![UI SS](https://drive.google.com/uc?id=103SnKNmx0Y1TJcRhS0boBsEG4J09e8C2)
+![enter image description here](https://drive.google.com/uc?id=103SnKNmx0Y1TJcRhS0boBsEG4J09e8C2)
